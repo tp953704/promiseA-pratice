@@ -1,0 +1,15 @@
+{
+  "name": "@tp953704/promise",
+  "version": "1.0.0",
+  "description": "依照 promiseA+規範 的簡單練習()",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests JS實現/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
